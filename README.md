@@ -19,6 +19,8 @@ On a close investigation, information are scattered in terms of words in various
  * Genres
  * Directors
  * Language and Country
+
+
 To make above data to machine understandable information its necessary to process above features based on language processing  tools.
 Here count_vectorizer is used to tokenize the count of  words in every record of particular feature.
 
